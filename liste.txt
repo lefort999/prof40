@@ -1,0 +1,18 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est F221-31D0
+
+ R‚pertoire de c:\Users\Jacques\Documents\pilotage
+
+24/06/2025  17:27    <DIR>          .
+24/06/2025  17:27    <DIR>          ..
+24/06/2025  17:27                 0 liste.txt
+24/06/2025  14:34            20ÿ311 militaire.txt
+24/06/2025  14:55             1ÿ361 prog40.py
+24/06/2025  15:06                13 READER.md
+24/06/2025  16:47                83 README.md
+07/06/2025  18:19               134 render.yaml
+08/06/2025  19:07                 5 requirements.txt
+20/06/2025  13:56    <DIR>          templates
+20/06/2025  13:56    <DIR>          __pycache__
+               7 fichier(s)           21ÿ907 octets
+               4 R‚p(s)  510ÿ181ÿ732ÿ352 octets libres
